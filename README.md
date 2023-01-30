@@ -6,7 +6,7 @@ On a high level, the method can be devided in four steps:
 3)	Processing, statistical analysis, and clustering 
 4)	Presentation of results using generalized and tailor-made visualizations
 
-Visualisation examples are provided for ready to publisch heatmaps, network graphs, line plots, bar plots, bubble plots and dendrograms. This method supports both automated and manual grouping of either or both Terms and Documents and provided examples for each.
+Visualisation examples are provided for ready to publish heatmaps, network graphs, line plots, bar plots, bubble plots and dendrograms. This method supports both automated and manual grouping of either or both Terms and Documents, and provides examples for each.
 
 
 # Code
@@ -39,6 +39,7 @@ This methodology was built by generalizing the code used for multiple peer revie
 * http://dx.doi.org/10.3390/pr10122667
 * http://dx.doi.org/10.1016/j.aquaculture.2022.739158
 * http://dx.doi.org/10.1016/j.ocecoaman.2022.106149
+* This methodology is submitted for review to MethodX, Elsevier. Reference to the published article will be provided upon acceptance.
 
 # Licence
  Apache License 2.0
