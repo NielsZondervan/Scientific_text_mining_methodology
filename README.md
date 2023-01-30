@@ -39,3 +39,6 @@ This methodology was built by generalizing the code used for multiple peer revie
 * http://dx.doi.org/10.1016/j.aquaculture.2022.739158
 * http://dx.doi.org/10.1016/j.ocecoaman.2022.106149
 
+# Licence
+ Apache License 2.0
+
