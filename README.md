@@ -1,4 +1,4 @@
-# Scientific_text_mining_methadology
+# Scientific_text_mining_methodology
 An open-source scientific text mining methodology for reproducible text mining. We provide template code for analysing single and multiple groups of documents (such as articles and abstracts), or time-based analysis. The method includes mock data and can be used for scientific text mining or as educational material. Before analysing any text, the researcher/students need to search and collect articles based on pre-defined search criteria.
 
 On a high level, the text mining method can be devided in three steps:
