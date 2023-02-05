@@ -1,10 +1,10 @@
 # Scientific_text_mining_methadology
-An open-source scientific text mining methodology for reproducible text mining. We provide template code for analysing single and multiple groups of documents (such as articles and abstracts), or time-based analysis. The method includes mock data and can be used for scientific text mining or as educational material.
-On a high level, the method can be devided in four steps:
-1)	Searching and collecting articles
-2)	Loading and cleaning of text from articles
-3)	Processing, statistical analysis, and clustering 
-4)	Presentation of results using generalized and tailor-made visualizations
+An open-source scientific text mining methodology for reproducible text mining. We provide template code for analysing single and multiple groups of documents (such as articles and abstracts), or time-based analysis. The method includes mock data and can be used for scientific text mining or as educational material. Before analysing any text, the researcher/students need to search and collect articles based on pre-defined search criteria.
+
+On a high level, the text mining method can be devided in three steps:
+1)	Loading and cleaning of text from articles
+2)	Processing, statistical analysis, and clustering 
+3)	Presentation of results using generalized and tailor-made visualizations
 
 Visualisation examples are provided for ready to publish heatmaps, network graphs, line plots, bar plots, bubble plots and dendrograms. This method supports both automated and manual grouping of either or both Terms and Documents, and provides examples for each.
 
