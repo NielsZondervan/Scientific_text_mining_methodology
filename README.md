@@ -11,7 +11,7 @@ Visualisation examples are provided for ready to publish heatmaps, network graph
 
 # Code
 The code is separated in tree example templates. It is recommended to always start with the first template code to analyse documents as a single group, to get a better understanding and feeling for the data before moving on to more advanced analysis.
-![Code schematic](https://github.com/NielsZondervan/Scientific_text_mining_methadology/blob/main/schematic.png)
+![Code schematic](https://github.com/NielsZondervan/Scientific_text_mining_methadology/blob/main/GraphicalAbstract.png)
 
 # Dependencies
 Tested with R version 3.6.1 (2019-07-05)
